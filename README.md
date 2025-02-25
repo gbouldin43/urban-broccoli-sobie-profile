@@ -34,5 +34,10 @@ Here is what my completed Sobie Dev Co webpage would look like to someone who ve
 
 ---
 
+## Tech Stack Used for this Assignment
+* [Body-parser](https://www.npmjs.com/package/body-parser)
+
+---
+
 ## Credits
 Created by Garrett Bouldin.
