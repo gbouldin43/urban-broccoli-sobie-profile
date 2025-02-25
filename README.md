@@ -1,4 +1,4 @@
-# turbo-potato-sobie-profile
+# Sobie Dev Co. Profile
 CIS 486 Spring 2025 The Sobie Dev Co. Profile
 
 ## Main Goal
@@ -25,21 +25,14 @@ This project consists of creating a **profile** for the Sobie Development Compan
 
 ---
 
-## GreekLink Prototype from CIS 330
-Here are some images of the prototype I built in CIS 330 for the GreekLink application. The first image is the login screen, which most closely relates to the webpage application I built for this project, and the rest of the images show what the rest of the main pages of the application would look like if it was finalized.
+## Sobie Dev Co Preview
+Here is what my completed Sobie Dev Co webpage would look like to someone who ventures to my page. I have images of the top, middle, and bottom sections of the webpage included here. The top section of the webpage is an introduction to my profile and let's users know what to expect from the webpage. The middle section of the webpage includes personal information and some previous projects that I have worked on. The bottom section of the page is where anyone can create, read, update, or delete the database that is linked with the webpage.
 
 ![App Interface](/images/greeklinkloginpage.png "GreekLink Preview")
 ![App Interface](/images/greeklinkhomepage.png "GreekLink Preview")
 ![App Interface](/images/greeklinkfratsandsororities.png "GreekLink Preview")
-![App Interface](/images/greeklinkgroupmessagepage.png "GreekLink Preview")
-![App Interface](/images/greeklinkcalendar.png "GreekLink Preview")
-
----
-
-## GreekLink Interface Preview 
-![App Interface](/images/greeklinkpreview.png "GreekLink Preview")
 
 ---
 
 ## Credits
-Created by Garrett Bouldin. Inspired by real-world scenarios in fraternity and sorority life at the University of North Alabama.
+Created by Garrett Bouldin.
