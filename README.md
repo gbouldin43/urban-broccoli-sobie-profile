@@ -1,6 +1,9 @@
 # Sobie Dev Co. Profile
 CIS 486 Spring 2025 The Sobie Dev Co. Profile
 
+about this: https://gbouldin43.github.io/urban-broccoli-sobie-profile/
+and the app: ...
+
 ## Main Goal
 This project consists of creating a **profile** for the Sobie Development Company designed to `create`, `read`, `update`, and `delete` objects in a database from my profile webpage. The goal for the CRUD functionality of this webpage is for users to add their favorite movie and actor/actress from that movie to the database that is linked to my webpage.
 
