@@ -2,7 +2,7 @@
 CIS 486 Spring 2025 The Sobie Dev Co. Profile
 
 ## Main Goal
-This project consists of creating a **profile** for the Sobie Development Company designed to `create`, `read`, `update`, and `delete` objects in a database from my profile webpage.
+This project consists of creating a **profile** for the Sobie Development Company designed to `create`, `read`, `update`, and `delete` objects in a database from my profile webpage. The goal for the CRUD functionality of this webpage is for users to add their favorite movie and actor/actress from that movie to the database that is linked to my webpage.
 
 ## Features  
 * restfulAPI, SPA, MVC paradigms 
