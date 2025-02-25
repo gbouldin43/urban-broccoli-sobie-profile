@@ -34,7 +34,7 @@ Here is what my completed Sobie Dev Co webpage would look like to someone who ve
 
 ---
 
-## Tech Stack Used for this Assignment
+## Tech Stack Used
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [ejs](https://www.npmjs.com/package/ejs)
