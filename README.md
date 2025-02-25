@@ -16,9 +16,12 @@ This project consists of creating a **profile** for the Sobie Development Compan
 
 ## Simple How to Use Guide
 1. Open the app in a browser.  
-2. Click the **Load Data** button to populate the cards with default  user data.  
-3. Edit the values in the form fields as desired.  
-4. Click **Submit** to save changes, receive a message stating that the data has been collected, and view the JSON output in the console.
+2. Browse through the app and feel free to click any links that you would like to checkout.  
+3. The CRUD functionality can be found at the bottom of the webpage.  
+4. If you would like to add something to the database, fill in the two blank text boxes and click the new post button to add to the database.
+5. If you would like to update something in the database, add to or take away text from one of the text boxes that has already been filled in and click the pencil button that is beside the elements you are wanting to change.
+6. If you would like to delete something from the database, click the trash button that is beneath the element you are wanting to get rid of.
+7. Feel free to stick around and complete steps 2-6 as long as you would like!
 
 ---
 
