@@ -28,9 +28,9 @@ This project consists of creating a **profile** for the Sobie Development Compan
 ## Sobie Dev Co Preview
 Here is what my completed Sobie Dev Co webpage would look like to someone who ventures to my page. I have images of the top, middle, and bottom sections of the webpage included here. The top section of the webpage is an introduction to my profile and let's users know what to expect from the webpage. The middle section of the webpage includes personal information and some previous projects that I have worked on. The bottom section of the page is where anyone can create, read, update, or delete the database that is linked with the webpage.
 
-![App Interface](/images/greeklinkloginpage.png "GreekLink Preview")
-![App Interface](/images/greeklinkhomepage.png "GreekLink Preview")
-![App Interface](/images/greeklinkfratsandsororities.png "GreekLink Preview")
+![App Interface](/readmeImages/top.png "Sobie Preview")
+![App Interface](/readmeImages/middle.png "Sobie Preview")
+![App Interface](/readmeImages/bottom.png "Sobie Preview")
 
 ---
 
